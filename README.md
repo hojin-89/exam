@@ -7,7 +7,7 @@ Java 8
 
 1-2. Lambda ?   
 편하게 만들 수 있는 코드 블록!   
-   
+익명객체 까지 없이 생성 가능
 <pre>
 <code>
 public class LambdaExam01 {
@@ -19,3 +19,4 @@ public class LambdaExam01 {
 }
 </code>
 </pre>
+
