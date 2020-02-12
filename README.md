@@ -45,7 +45,7 @@ java.util.function 패키지로 다양한 함수형 인터페이스를 제공
          
  
 ## 2. Stream API   
-* Stream API ?
+* Stream API ?   
 많은 양의 배열 컬렉션 데이터를 정형화된 처리 패턴의 방법 제공   
 * 생성 가능한 데이터 소스들
   * 컬렉션.stresm(), 배열.stream(),    
