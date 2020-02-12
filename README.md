@@ -23,6 +23,7 @@ public class LambdaExam01 {
 public class LambdaExam02 {
   public static void main(String[] args){
   //MyfunctionalInterface mfi = a -> a * a;
+  //doIt(mfi);
     doIt(a -> a * a);
   }
   
